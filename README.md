@@ -21,7 +21,7 @@ h1{border:solid 2px black;}</style>
 <Li><h2>Github username-sahil-9356</h2></li>
 </ul></div>
 <h1 style=background-color:yellow; ><ul><li>Objective</li></ul></h1>
-<p  style="font-size:30px;">I am first year IT student at Sanjivani College Of Engineering Kopargaon. Hardworking is the key of acheivement of your goal.</p>
+<p  style="font-size:30px;">To crate Academic Excellence in the field of Engineering and Management through Education,Training and Research to improve quality of life</p>
 
 
 <h1 style=background-color:yellow;><ul><li>Educational Details</li></ul></h1>
