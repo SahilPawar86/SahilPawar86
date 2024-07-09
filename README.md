@@ -11,7 +11,7 @@ h1{border:solid 2px black;}</style>
 
 </head>
 <body><div>
-<img src="C:\Users\HP\Pictures\Sahil Photos\DSC_0476.JPG" width="175" height="200" align=right></img>
+
 <ul>
 <li><h1 align=center><u> My Profile </u></h1></li>
 <li><h1>Name- Sahil Ashok Pawar</h1></li>
