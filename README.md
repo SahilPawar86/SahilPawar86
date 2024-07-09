@@ -11,9 +11,9 @@ h1{border:solid 2px black;}</style>
 
 </head>
 <body><div>
-
+<h1 align=center><u> My Profile </u></h1>
 <ul>
-<li><h1 align=center><u> My Profile </u></h1></li>
+
 <li><h1>Name- Sahil Ashok Pawar</h1></li>
 <li><h2>Email-sahil9356926077@gmail.com</h2></li>
 <li><h2>Address-At.Post.Undirwadi 423402</h2></li>
