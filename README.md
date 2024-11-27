@@ -67,7 +67,7 @@ h1{border:solid 2px black;}</style>
 </div>
 <div style="font-size:30px">
 <h1 style=background-color:yellow;><ul><li>My Resume Link</li></ul></h1>
-Visit this link-<a href="https://drive.google.com/file/d/1AJf43fFiEfCbGF9RpvuxFy-DgMHeskXM/view?usp=sharing">Visit this link for resume</a>
+Visit this link-<a href="https://drive.google.com/file/d/1fzLmMKd0w_gENfBp2DMZ8bMcbsp0fNLL/view?usp=drive_link">Visit this link for resume</a>
 <h1 style="background-color:yellow;style="font-size style="font-family:arial;"><ul><li>Contact ME</li></ul></h1>
 <ul><li> Moblie No:- 9356926077</li>
     <li> Email Id:- sahil9356926077@gmail.com</li>
