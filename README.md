@@ -87,27 +87,17 @@
 - **[Agro Shop App](https://github.com/sahil-9356/Admin-App)**: An android app for agro clinic shop frontend development/UI.
 - **[Student Marklist Publishing System](https://github.com/sahil-9356/Student_Marklist_Publishing_System)**: A website with student marklist publishing system.
 
-<p align="center">
-   <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63">
-    <img align="center" src="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63"/>
-   </picture>
-<p/>
-
 
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-kumar-751a1229b">
+  <a href="https://www.linkedin.com/in/sahil-pawar-004382297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" />
   </a>
-  <a href="https://github.com/pratyush0898">
+  <a href="https://github.com/sahil-9356">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://x.com/nvmPratyush">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Profile" />
-  </a>
-  <a href="https://www.instagram.com/nvm_partyush/">
+  <a href="https://www.instagram.com/sahil_ashok_pawar/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
   </a>
 </p>
