@@ -79,8 +79,8 @@
 <h2 align="center">🔭 Projects I'm Working On</h2>
 
 - **[Sahil Portfolio](https://github.com/sahil-9356/sahil-portfolio)**: My personal portfolio website showcasing my skills, projects, and achievements.
-- **[Ecommerce Store](https://github.com/sahil-9356/admin-app)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
-- **[Cstyle UI](https://github.com/pratyush0898/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
+- **[Agro Shop App](https://github.com/sahil-9356/Admin-App)**: An android app for agro clinic shop frontend development/UI.
+- **[Student Marklist Publishing System](https://github.com/sahil-9356/Student_Marklist_Publishing_System)**: A website with student marklist publishing system.
 
 <p align="center">
    <picture align="center">
