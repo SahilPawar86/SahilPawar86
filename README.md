@@ -1,178 +1,148 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <meta name="viewport" content="Personal Profile Page of Sahil Pawar">
-    <link rel="stylesheet" href="style.css" type="text/css">
-    <link rel="icon" href="">
-    <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
-   
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 
-<style>
-    html {
-        scroll-behavior: smooth; /* Enables smooth scrolling */
-    }
-    /* Add your custom styles here if needed */
-</style>
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="333">
+</p>
 
-</head>
-<body>
-    <center>
-        <header class="h11">
-            <h1 class="header-title" style="font-family:cursive;">Sahil Ashok Pawar</h1>
-            <div class="a2">
-                <a href="#" class="nav-link">Home</a>
-                <a href="#contact" class="nav-link">Contact Me</a>
-                <button type="button" class="btn">
-                    <a href="https://drive.google.com/file/d/1fzLmMKd0w_gENfBp2DMZ8bMcbsp0fNLL/view" class="resume-button">Download Resume</a>
-                </button>
-            </div>
-        </header>
-        
-        <header>
-            <h1 class="h111">Hello I am Sahil Pawar</h1>
-            <h4 class="typing" id="typingEffect"></h4>
-            <h2><b>Welcome to my world!</b></h2>
-            
-         </header>
-         <script>
-            const typingElement = document.getElementById("typingEffect");
-            const textToType = "Student of Information Technology";
-            
-            let index = 0;
-        
-            function typeText() {
-                if (index < textToType.length) {
-                    typingElement.innerHTML += textToType.charAt(index);
-                    index++;
-                    setTimeout(typeText, 100); // Adjust the speed by changing 100 (milliseconds)
-                } else {
-                    // Reset after typing is complete and restart typing
-                    setTimeout(() => {
-                        index = 0;
-                        typingElement.innerHTML = '';  // Clear the text
-                        typeText();  // Restart typing
-                    }, 2000); // Wait 1 second before restarting
-                }
-            }
-        
-            // Start typing the text
-            typeText();
+<p align="center">
+  <b>A passionate programmer, web developer, and tech enthusiast from India!</b>
+</p>
 
-            
-        </script>
-        
+<p align="center">
+  <a href="https://github.com/pratyush0898">
+    <p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/pratyush0898/count.svg" />
+</p>
+  </a>
+  </a>
+</p>
 
-     <section>
-        <h1>About Me</h1>
-        <p>I am second year IT student.I am pursuing B.Tech in Information Technology <br>from Sanjivani College of Engineering Kopargaon</p>
-        <img src="assets/img/sahil phto.jpg" alt="Sahil Profile" width="300">
-     </section><hr>
-     
-            
-    
-    <section>
-       
-        <h1>Contact Information</h1>
-        <p>Let's Connect</p>
-        <p>
-            <a href="https://www.linkedin.com/in/sahil-pawar-004382297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-                <i class="fab fa-linkedin icon-size"></i> 
-            </a><h4>LinkedIn</h4> 
-            <a href="mailto:sahil9356926077@gmail.com" target="_self">
-                <i class="fas fa-envelope icon-size"></i> 
-            </a> <h4>Email Me</h4>
-            <a href="https://github.com/sahil-9356" target="_blank">
-                <i class="fab fa-github icon-size"></i> 
-            </a><h4>GitHub</h4>
-        </p>
-       
-    </section><hr>
-    
-     <section>
-        <h2>My Projects</h2>
-        <div class="projects-container">
-            <div class="project-column">
-                <img src="assets/img/Top-10-Computer-Science-Project-Ideas-in-2024-and-Beyond.jpg" alt="Project 1" class="project-image">
-                <div class="project-title"><a href="https://github.com/sahil-9356/Web-Development" target="_blank">Web Development Making Webpages</a></div>
-                <div class="project-description">It involves web development using HTML, CSS, and JavaScript.</div>
-            </div>
-            <div class="project-column">
-                <img src="assets/img/Top-Considerations-in-Mobile-App-Development-Projects.jpg" alt="Project 2" class="project-image">
-                <div class="project-title"><a href="https://github.com/sahil-9356/Admin-App" target="_blank">App Develpment-Admin App</a></div>
-                <div class="project-description">This project focuses on creating a dynamic admin app using Kotlin,XML in Adroid Studio.</div>
-            </div>
-            <div class="project-column">
-                <img src="assets/img/product-jpeg-500x500.webp" alt="Project 3" class="project-image">
-                <div class="project-title"><a href="">Project 3</a></div>
-                <div class="project-description">A mobile app project developed using Flutter for cross-platform deployment.</div>
-            </div>
-        </div>
-    </section><hr>
+<div align="center">
 
-    <section>
-        <h2>My Skills</h2>
-        <div class="skills-container">
-            <div class="skill-column">
-                <div class="skill-title">Web Development</div>
-                <div class="skill-description">Frontend Knowledge</div>
-            </div>
-            <div class="skill-column">
-                <div class="skill-title">Graphic Design</div>
-                <div class="skill-description">Making Posters,Image Editing.</div>
-            </div>
-            <div class="skill-column">
-                <div class="skill-title">Photography</div>
-                <div class="skill-description">Capuring new moments and preserve that moments.</div>
-            </div>
-        </div>
-        <div class="marquee-container">
-            <div class="marquee-images">
-                <img src="https://miro.medium.com/v2/resize:fit:1200/1*V-Jp13LvtVc2IiY2fp4qYw.jpeg" alt="Skill 1" />
-                <img src="assets/img/unnamed.jpg" alt="Skill 2" />
-                <img src="assets/img/530171_716709.webp" alt="Skill 3" />
-            </div>
-        </div>
-        
-    </section><hr>
-    <section>
-        <fieldset>
-            <legend>Personal Contact</legend>
-            <h1>Contact Me</h1>
-            <form  id="contact" action="https://api.web3forms.com/submit" method="POST">
+<table>
+<tr>
+<td>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true">
+    <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyush0898&layout=compact&theme=dark&show_icons=true"/>
+</picture>
+</td>
+<td>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=pratyush0898&theme=dark&show_icons=true">
+    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true"/>
+</picture>
+</td>
+</tr>
+</table>
 
-                <input type="hidden" name="access_key" value="38189167-02be-4da4-a427-4af79e6d490a">
+</div>
+ 
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="150" alt="Coding GIF">
+</div>
+
+<p align="center">
+  Hi there! I'm Pratyush, a 14-year-old coding enthusiast from India. My journey into the tech world began with a fascination for how websites and applications work, leading me to dive into Full stack.
+</p>
+
+<p align="center">
+
+  💡 **Aspirations:** <br>
+
+  - **Innovative Leader:** I strive to excel in technology and business, with a focus on creating impactful solutions. <br>
+
+  - **Future Goals:** Exploring exciting opportunities and advancements in the tech world while continuously developing my skills.
+
+</p>
 
 
-                <label for="name">Name</label>
-                <input type="text" id="name" name="name" placeholder="Your Name" required><br><br>
-                
-                <label for="email">Email</label>
-                <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
-                <label for="phone">Phone NO</label>
-                <input type="text" id="phone" name="phone" placeholder="Phone no." required><br><br>
-                
-                <label for="message">Message</label>
-                <textarea name="message"  id="message" placeholder="Send Message" required></textarea><br><br>
+<h2 align="center">📊 My Skills</h2>
 
-                <div class="g-recaptcha" data-sitekey="Y"></div><br>
+<p align="center">
 
-                <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-               
-                
-                
-                <button type="submit" class="button">Send Message</button>
-                <input type="reset" class="button1" value="Reset">
-            </form>
-        </fieldset>
-    </section>
-    <hr>
-    
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
 
-    <footer><p>&copy Owned by Sahil Pawar</p></footer>
-    </center>
-</body>
-</html>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Nodejs" />
+
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPMjs" />
+
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+
+
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=blac" alt="Firebase" />
+
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" />
+
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" alt="github Pages" />
+
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="github Pages" />
+
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+
+</p>
+
+<p align="center">
+
+```txt
+React              80 hrs 45 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   45.80 %
+JavaScript         30 hrs 12 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.10 %
+TypeScript         18 hrs 47 mins  🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   10.65 %
+Python             15 hrs 23 mins  🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.73 %
+Others             11 hrs 50 mins  🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.72 %
+```
+</p>
+
+
+<h2 align="center">🔭 Projects I'm Working On</h2>
+
+- **[Pratyush Portfolio](https://github.com/pratyush0898/pratyush-portfolio)**: My personal portfolio website showcasing my skills, projects, and achievements.
+- **[Ecommerce Store](https://github.com/pratyush0898/Ecommerce-store)**: An Amazon clone with core functionalities like product listings, shopping carts, and checkouts.
+- **[Cstyle UI](https://github.com/pratyush0898/cstyle-ui)**: A lightweight, customizable CSS framework with React components.
+
+<p align="center">
+   <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63">
+    <img align="center" src="https://github.com/user-attachments/assets/db0adfc6-53b5-4e56-b5b8-fd3984315e63"/>
+   </picture>
+<p/>
+
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratyush-kumar-751a1229b">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile" />
+  </a>
+  <a href="https://github.com/pratyush0898">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  </a>
+  <a href="https://x.com/nvmPratyush">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Profile" />
+  </a>
+  <a href="https://www.instagram.com/nvm_partyush/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"If the plan doesn't work, change the plan, but never the goal."</i>
+</p>
