@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/pratyush0898">
+  <a href="https://github.com/sahil-9356">
     <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/pratyush0898/count.svg" />
