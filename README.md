@@ -10,8 +10,7 @@
 <p align="center">
   <a href="https://github.com/SahilPawar86">
     <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/pratyush0898/count.svg" />
+ 
 </p>
   </a>
   </a>
@@ -30,7 +29,7 @@
 <td>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=SahilPawar86&theme=dark&show_icons=true">
-    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true"/>
+    <img align="center" width="100%" src="https://github-readme-stats-ouuan.vercel.app/api?username=SahilPawar86&show_icons=true"/>
 </picture>
 </td>
 </tr>
