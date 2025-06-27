@@ -84,7 +84,7 @@
 
 - **[Sahil Portfolio](https://github.com/sahil-9356/sahil-portfolio)**: My personal portfolio website showcasing my skills, projects, and achievements.
 - **[Agro Shop App](https://github.com/sahil-9356/Admin-App)**: An android app for agro clinic shop frontend development/UI.
-- **[Student Marklist Publishing System](https://github.com/sahil-9356/Student_Marklist_Publishing_System)**: A website with student marklist publishing system.
+- **[Student Dashboard](https://github.com/sahil-9356/Student_Marklist_Publishing_System)**: A website with student marklist publishing system.
 
 
 <h2 align="center">🌐 Connect with Me</h2>
